@@ -1,4 +1,4 @@
-document.onload = function() {
+window.onload = function() {
     let square1 = document.querySelector(".square1");
     let square2 = document.querySelector(".square2");
     let square3 = document.querySelector(".square3");
