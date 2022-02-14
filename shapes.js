@@ -14,7 +14,7 @@ function moveSquare() {
     let originX = window.innerWidth / 2;
     let originY = window.innerHeight / 2;
 
-    let m = posY - 50;
+    let m = posY;
 
     console.log("window.innerWidth: " + originX);
     console.log("window.innerHeight: " + originY);
